@@ -3,7 +3,3 @@ node_js:
   - "11"
   - "12"
   - "--lts"
-cache:
-  yarn: true
-  directories:
-    - node_modules
